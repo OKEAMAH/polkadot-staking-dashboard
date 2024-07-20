@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.6.0](https://github.com/OKEAMAH/polkadot-staking-dashboard/compare/v1.5.0...v1.6.0) (2024-07-20)
+
+
+### Features
+
+* upgrade @polkadot/rpc-provider from 10.11.2 to 11.0.3 ([21663ab](https://github.com/OKEAMAH/polkadot-staking-dashboard/commit/21663ab4d75239be2e7db05348aa3ae5f56d4883))
+
+
+### Bug Fixes
+
+* package.json & yarn.lock to reduce vulnerabilities ([315649c](https://github.com/OKEAMAH/polkadot-staking-dashboard/commit/315649c91d9d2540d695e466d540ca8266f2e494))
+
 ## [1.5.0](https://github.com/OKEAMAH/polkadot-staking-dashboard/compare/v1.4.4...v1.5.0) (2024-06-05)
 
 
